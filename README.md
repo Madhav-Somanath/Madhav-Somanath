@@ -1,6 +1,6 @@
 # Hi there! 🚀
 
-Budding Data Scientist with premier grade Full-stack development skills, skilled in handling and telling data driven stories, with various projects done in both Data Science and Web Development domains.
+Budding Data Scientist with premier grade Full-stack development skills, skilled in handling and telling data driven stories, with various projects done in both Data Science and Web Development domains.<br>
 Currently open to positions in Data Science, Machine Learning and Deep learning along with related fields.
 
 # My skills 💻
