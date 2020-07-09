@@ -1,6 +1,6 @@
 ### Hi there! 🚀
 
-I’m currently looking for a full-time role in Data Science, Machine Learning or related fields.
+Budding Data Scientist with premier grade Full-stack development skills, skilled in handling and telling data driven stories, Currently open to positions in Data Science, Machine Learning and Deep learning along with related fields.
 
 ### My skills 💻
 
@@ -14,6 +14,4 @@ I’m currently looking for a full-time role in Data Science, Machine Learning o
 
 ### Reach out to me! 🕺🏼
 
-Find me by clicking below 👇
-<br>
-[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/madhav-somanath/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://madhav-somanath.github.io/PortfolioV2/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@madhav.somanath)
+Find me by clicking below 👇<br>[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/madhav-somanath/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://madhav-somanath.github.io/PortfolioV2/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@madhav.somanath)
