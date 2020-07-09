@@ -15,4 +15,4 @@ Currently open to positions in Data Science, Machine Learning and Deep learning 
 
 # Reach out to me! 🕺🏼
 
-Find me by clicking below 👇<br><br>[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/madhav-somanath/)    [<img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/>](https://madhav-somanath.github.io/PortfolioV2/)    [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>](https://medium.com/@madhav.somanath)    [<img src="https://img.icons8.com/ios-filled/50/000000/composing-mail.png"/>](mailto:madhav.somanath@gmail.com)
+Find me by clicking below 👇<br><br>[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/madhav-somanath/)    [<img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/>](https://madhav-somanath.github.io/PortfolioV2/)    [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>](https://medium.com/@madhav.somanath)    [<img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png"/>](mailto:madhav.somanath@gmail.com)
