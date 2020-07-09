@@ -7,7 +7,7 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 
 **Languages:** Python, SQL, HTML, CSS, JavaScript.
 
-**Frameworks:** Flask, Django, React, Bootstrap, MongoDB.
+**Frameworks:** Flask, Django, React, Bootstrap, MongoDB, Node.js.
 
 **Libraries & Tools:** Azure, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, Tensorflow 2.x, Keras.
 
