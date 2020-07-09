@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there! 🚀
 
-<!--
-**Madhav-Somanath/Madhav-Somanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently looking for a full-time role in Data Science, Machine Learning or related fields.
 
-Here are some ideas to get you started:
+### My skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, SQL, HTML, CSS, JavaScript.
+
+**Frameworks:** Flask, Django, React, Bootstrap, MongoDB.
+
+**Libraries & Tools:** Azure, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, Tensorflow 2.x, Keras.
+
+**Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
+
+### Reach out to me! 🕺🏼
+
+Find me by clicking below 👇
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/madhav-somanath/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://madhav-somanath.github.io/PortfolioV2/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@madhav.somanath)
