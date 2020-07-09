@@ -14,4 +14,4 @@ Budding Data Scientist with premier grade Full-stack development skills, skilled
 
 ### Reach out to me! 🕺🏼
 
-Find me by clicking below 👇<br>[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/madhav-somanath/) [<img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/>](https://madhav-somanath.github.io/PortfolioV2/) [<img src="https://img.icons8.com/dusk/64/000000/medium-new.png"/>](https://medium.com/@madhav.somanath)
+Find me by clicking below 👇<br>[<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/madhav-somanath/) [<img src="https://img.icons8.com/ios-filled/50/000000/domain.png"/>](https://madhav-somanath.github.io/PortfolioV2/) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>](https://medium.com/@madhav.somanath)
