@@ -3,8 +3,6 @@
 Budding Data Scientist with premier grade Full-stack development skills, skilled in handling and telling data driven stories, with various projects done in both Data Science and Web Development domains.<br>
 Currently open to positions in Data Science, Machine Learning, Deep learning and related fields.
 
-[![HitCount](http://hits.dwyl.com/Madhav-Somanath/Madhav-Somanath.svg)](http://hits.dwyl.com/Madhav-Somanath/Madhav-Somanath)
-
 # My skills 💻
 
 **Languages:** Python, SQL, HTML, CSS, JavaScript.
