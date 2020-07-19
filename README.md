@@ -19,4 +19,5 @@ Find me by clicking below 👇<br><br>
 [<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/madhav-somanath/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/domain.png"/>](https://madhav-somanath.netlify.app/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>](https://medium.com/@madhav.somanath)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png"/>](mailto:madhav.somanath@gmail.com)
+[<img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png"/>](mailto:madhav.somanath@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png"/>](https://www.youtube.com/)
