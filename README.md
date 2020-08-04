@@ -21,5 +21,5 @@ Find me by clicking below 👇<br><br>
 [<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"/>](https://medium.com/@madhav.somanath)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png"/>](mailto:madhav.somanath@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Stats
+# My stats ⚙️
 ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-somanath&show_icons=true&theme=radical)
