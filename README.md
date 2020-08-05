@@ -11,6 +11,8 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 
 **Libraries & Tools:** Azure, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, Tensorflow 2.x, Keras.<br>
 <img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
+
 <br>
 <br>
 # Reach out to me! 🕺🏼
