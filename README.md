@@ -1,9 +1,11 @@
 # Hi there! 🚀
 
-Budding Data Scientist with premier grade Full-stack development skills, skilled in handling and telling data driven stories, with various projects done in both Data Science and Web Development domains.<br>
-Currently open to positions in Data Science, Machine Learning, Deep learning and related fields.
+**Budding Data Scientist with premier grade Full-stack development skills, skilled in handling and telling data driven stories, with various projects done in both Data Science and Web Development domains.<br>
+Currently open to positions in Data Science, Machine Learning, Deep learning and related fields.**
 
 # My skills 💻
+
+**Check out all my projects to see me implement the following in depth!**
 
 ### Languages: <br>
 <img align="left" alt="Python 3.x" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -40,10 +42,11 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 
 <br>
 <br>
+<br>
 
 # Reach out to me! 🕺🏼
 
-Click the icons below 👇<br><br>
+**Click the icons below 👇** <br><br>
 [<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/>](<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/>)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png"/>](https://www.youtube.com/channel/UCXh1tfwsCUdespmfRoV1uYg)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img target="_blank" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://www.linkedin.com/in/madhav-somanath/)&nbsp;&nbsp;&nbsp;&nbsp;
