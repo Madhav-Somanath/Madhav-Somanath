@@ -9,7 +9,7 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 
 **Frameworks:** Flask, Django, React, Bootstrap, Express, MongoDB, Node.js.
 
-**Libraries & Tools:** Azure, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, Tensorflow 2.x, Keras.
+**Libraries & Tools:** Azure, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, Tensorflow 2.x, Keras.<br>
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][]
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing, Image Processing, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Data Wrangling, Data Visualization, Data Warehousing, Quantitative Methods.
