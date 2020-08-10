@@ -5,8 +5,6 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 
 # My skills 💻
 
-**Check out all my projects to see me implement the following in depth!**
-
 **Languages:** Python, SQL, HTML, CSS, JavaScript, TypeScript.
 
 **Frameworks:** Flask, Django, React, Bootstrap, Express, MongoDB.
