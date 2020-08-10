@@ -7,14 +7,11 @@ Currently open to positions in Data Science, Machine Learning, Deep learning and
 
 **Check out all my projects to see me implement the following in depth!**
 
-### Languages:
-Python, SQL, HTML, CSS, JavaScript, TypeScript.
+**Languages:** Python, SQL, HTML, CSS, JavaScript, TypeScript.
 
-### Frameworks:
-Flask, Django, React, Bootstrap, Express, MongoDB.
+**Frameworks:** Flask, Django, React, Bootstrap, Express, MongoDB.
 
-### Libraries & Tools:
-Tensorflow 2.x, Pytorch, Azure, AWS, GCP, Node.js, Git, Docker, Kubernetes, MATLAB, Unix.
+**Libraries & Tools:** Tensorflow 2.x, Pytorch, Azure, AWS, GCP, Node.js, Git, Docker, Kubernetes, MATLAB, Unix.
 
 # My stats ⚙️
 ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=madhav-somanath&show_icons=true&theme=radical)
